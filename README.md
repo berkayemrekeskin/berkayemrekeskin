@@ -8,7 +8,7 @@
 </h4>
 
 <h4 align="center"> 
-  <a href="https://berkayemrekeskin.github.io/portfolio/">
+  <a href="https://github.com/berkayemrekeskin/University-Assignments">
     University Projects
   </a>
 </h4>
