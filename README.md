@@ -9,7 +9,7 @@
 
 <h4 align="center"> 
   <a href="https://github.com/berkayemrekeskin/University-Assignments">
-    University Projects
+    University Assignments
   </a>
 </h4>
 
