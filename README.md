@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer engineering student</h3>
 
 <h4 align="center"> 
-  <a href="https://berkayemrekeskin.github.io/portf/">
+  <a href="https://berkayemrekeskin.github.io/portfolio/">
     Portfolio
   </a>
 </h4>
