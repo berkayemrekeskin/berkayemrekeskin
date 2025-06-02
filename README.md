@@ -1,5 +1,4 @@
 <h1 align="center">Berkay Emre Keskin</h1>
-<h3 align="center">A passionate computer engineering student</h3>
 
 <h4 align="center"> 
   <a href="https://berkayemrekeskin.github.io/portfolio/">
